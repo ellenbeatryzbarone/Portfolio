@@ -1,5 +1,5 @@
 # Portfolio
-Olá! Sou Ellen, tenho 20 anos e sou estudante de Engenharia Elétrica, com foco em Engenharia Elétrica de Telecomunicações e Ciência da Computação (ADS). Apaixonada por tecnologia, adoro explorar as possibilidades de inteligência artificial, especialmente redes neurais, e desenvolver soluções inovadoras com Python.
+Olá! Sou Ellen, tenho 20 anos e sou estudante de Engenharia Elétrica, com foco em Engenharia Elétrica de Telecomunicações Analise e desenvolvimento de sistema. Apaixonada por tecnologia, adoro explorar as possibilidades de inteligência artificial , especialmente redes neurais, e desenvolver soluções inovadoras com Python.
 
 Tenho experiência e interesse em:
 
